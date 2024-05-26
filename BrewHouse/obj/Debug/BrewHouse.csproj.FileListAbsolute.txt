@@ -1,0 +1,261 @@
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Components.Cartitem.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Components.widget.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Home.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Login.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Properties.Resources.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Register.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.SplashScreen.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Stock.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.csproj.GenerateResource.cache
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.csproj.CoreCompileInputs.cache
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Items\Brew Espresso.jpg
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Items\Conn Panna Espresso.jpg
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Items\Filter Coffee.jpg
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Items\Latte Coffee.jpg
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Items\Macchiato Espresso.jpg
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\BrewHouse.exe.config
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\BrewHouse.exe
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\BrewHouse.pdb
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.csproj.CopyComplete
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.exe
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.pdb
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\EntityFramework.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\EntityFramework.xml
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.BrewUser.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Settings.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.ManagerPass.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Reports.CustomerReport.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\RdlCompile.cache
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\RdlCompile.compiled
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\EnvDTE.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\stdole.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Stock_Report.StockReport.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Invoice.Invoice.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Chart_View.ChartView.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Core.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.pdb
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.xml
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Core.xml
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Error.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Form1.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Successfull.resources
+C:\Users\HI\source\repos\BrewHouse\BrewHouse\obj\Debug\BrewHouse.csproj.AssemblyReference.cache
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Items\Brew Espresso.jpg
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Items\Conn Panna Espresso.jpg
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Items\Filter Coffee.jpg
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Items\Latte Coffee.jpg
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Items\Macchiato Espresso.jpg
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\BrewHouse.exe.config
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\BrewHouse.exe
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\BrewHouse.pdb
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\EntityFramework.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Auth.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Core.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Gmail.v1.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\EnvDTE.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\stdole.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\EntityFramework.xml
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.pdb
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.xml
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Auth.xml
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Core.pdb
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Core.xml
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Gmail.v1.pdb
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Google.Apis.Gmail.v1.xml
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.csproj.AssemblyReference.cache
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Chart_View.ChartView.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Components.Cartitem.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Components.widget.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.BrewUser.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Error.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Form1.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Home.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Invoice.Invoice.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Login.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.ManagerPass.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Properties.Resources.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Register.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Reports.CustomerReport.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Settings.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.SplashScreen.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Stock_Report.StockReport.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Stock.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.Successfull.resources
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.csproj.GenerateResource.cache
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\RdlCompile.cache
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\RdlCompile.compiled
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.csproj.CoreCompileInputs.cache
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.csproj.CopyComplete
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.exe
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.pdb
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\BrewHouse.exe.manifest
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\bin\Debug\BrewHouse.application
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.exe.manifest
+C:\Users\HI\source\repos\New folder\BrewHouse\BrewHouse\obj\Debug\BrewHouse.application
